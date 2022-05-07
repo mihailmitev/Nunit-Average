@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average", "Average\Average.csproj", "{0846CE26-A049-4B74-BC31-C1AF3E5F9711}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average-Tests", "Average-Tests\Average-Tests.csproj", "{9E0F5573-88A7-4FEF-9CCC-2DF8F595E686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0846CE26-A049-4B74-BC31-C1AF3E5F9711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0846CE26-A049-4B74-BC31-C1AF3E5F9711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0846CE26-A049-4B74-BC31-C1AF3E5F9711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0846CE26-A049-4B74-BC31-C1AF3E5F9711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0F5573-88A7-4FEF-9CCC-2DF8F595E686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0F5573-88A7-4FEF-9CCC-2DF8F595E686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0F5573-88A7-4FEF-9CCC-2DF8F595E686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0F5573-88A7-4FEF-9CCC-2DF8F595E686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F478CDBB-9592-4A39-8F4D-E7DCD1465F0B}
+	EndGlobalSection
+EndGlobal
